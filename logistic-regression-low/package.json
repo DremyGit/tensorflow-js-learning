@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.14.1",
+    "@tensorflow/tfjs-node": "^0.2.1",
+    "@types/es6-shim": "^0.31.39",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  }
+}
